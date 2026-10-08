@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wiFrg7yqN0eFhK7GbJEq4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="coe.licet.ac.in/studentlogin/login.php" DesignTimeRectangle="1473, 551, 325, 42" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;form&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='user_name' tableRow='4' tag='INPUT' /&gt;" Guid="0f5c88e3-66b0-41d9-b2cb-fa78ce4f4839" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loyola-ICAM College of Engineering and Technology' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d386d43b112541c381760fb313d53c5c.jpg" xmlns="">0PIY9bww050OlDdUhs-9fGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

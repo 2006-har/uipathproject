@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome About – LICET",
+  "Type": "Screen",
+  "Id": "3trwTvzItUKRyVo3BTz_5g",
+  "Reference": "njd9gq-IxE2ep_hizDfHDQ/3trwTvzItUKRyVo3BTz_5g",
+  "ParentRef": "njd9gq-IxE2ep_hizDfHDQ/wliEPxnlVUai2OMft1R-mA",
+  "Created": "2026-10-01T09:29:51.4052747Z",
+  "Updated": "2026-10-01T09:29:51.4052747Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

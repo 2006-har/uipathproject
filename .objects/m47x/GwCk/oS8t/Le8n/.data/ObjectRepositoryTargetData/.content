@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gfHAWrKDgkaYuVAexhRH7g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="808, 351, 81, 24" ElementType="Cell" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;uia automationid='Grid' cls='XLSpreadsheetGrid' name='Grid' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;uia automationid='I3' cls='XLSpreadsheetCell' name='I3' role='item' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;" Guid="523c04b9-38b3-43c6-9eb9-e1561ed4c573" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Results - Excel' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d4a40bf0ba5c1814c9893ae3cd33499.jpg" xmlns="">03WzBSj1cPkyppEPqtlHH_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

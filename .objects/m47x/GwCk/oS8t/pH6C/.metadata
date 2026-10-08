@@ -1,0 +1,13 @@
+﻿{
+  "Name": "G2",
+  "Type": "Element",
+  "Id": "pH6ChFJ-7E6FrON8q9m2pQ",
+  "Reference": "njd9gq-IxE2ep_hizDfHDQ/pH6ChFJ-7E6FrON8q9m2pQ",
+  "ParentRef": "njd9gq-IxE2ep_hizDfHDQ/oS8toxmJmUS0Tvo0pzuW4g",
+  "Created": "2026-09-30T05:44:13.6277336Z",
+  "Updated": "2026-09-30T05:44:13.6277336Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

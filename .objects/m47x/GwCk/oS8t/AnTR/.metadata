@@ -1,0 +1,13 @@
+﻿{
+  "Name": "G1",
+  "Type": "Element",
+  "Id": "AnTRatObOECWaQiCZ---5g",
+  "Reference": "njd9gq-IxE2ep_hizDfHDQ/AnTRatObOECWaQiCZ---5g",
+  "ParentRef": "njd9gq-IxE2ep_hizDfHDQ/oS8toxmJmUS0Tvo0pzuW4g",
+  "Created": "2026-09-30T05:37:03.8020901Z",
+  "Updated": "2026-09-30T05:37:03.8020901Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Loyola-ICAM College of Engineering and Technology",
+  "Type": "App",
+  "Id": "BVbfHGCBf0ukubBSE1jUfw",
+  "Reference": "njd9gq-IxE2ep_hizDfHDQ/BVbfHGCBf0ukubBSE1jUfw",
+  "Created": "2026-09-30T03:48:32.2527854Z",
+  "Updated": "2026-09-30T03:48:32.2527854Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
